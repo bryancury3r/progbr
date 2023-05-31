@@ -15,5 +15,24 @@ body {
 }
 
 .container {
-    
+    max-width: 888px;
+    margin: auto;
+    padding: 30px;
+}
+
+
+
+.headLine {
+    font-size: 56px;
+    line-heigth: 64px;
+}
+
+.subtitle {
+    font-weight: normal;
+    font-size: 20px
+}
+
+.author {
+    font-weight: bold;
+    font-size: 0.8em;
 }
